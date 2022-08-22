@@ -1,3 +1,8 @@
+<html>
+<head>
+<title> creating form</title>
+</head>
+<style>
 html,input{
     font-family: sans-serif;
 }
@@ -66,3 +71,6 @@ error-output{
     }
 }
 Footer
+</style>
+/<head>
+<body>
